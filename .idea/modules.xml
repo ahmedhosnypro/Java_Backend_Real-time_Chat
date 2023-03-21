@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Real-time_Chat.iml" filepath="$PROJECT_DIR$/.idea/modules/Real-time_Chat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Real-time Chat/task/Real-time_Chat.Real-time_Chat-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Real-time Chat/task/Real-time_Chat.Real-time_Chat-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Real-time Chat/task/Real-time_Chat.Real-time_Chat-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Real-time Chat/task/Real-time_Chat.Real-time_Chat-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Real-time Chat/task/Real-time_Chat.Real-time_Chat-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Real-time Chat/task/Real-time_Chat.Real-time_Chat-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Real-time_Chat.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Real-time_Chat.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Real-time_Chat.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Real-time_Chat.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Real-time_Chat.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Real-time_Chat.util.test.iml" />
+    </modules>
+  </component>
+</project>
